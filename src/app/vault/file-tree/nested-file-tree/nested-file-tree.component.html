@@ -1,0 +1,10 @@
+<div *ngFor="let fragment of fragments; let i = index">
+  <div *ngIf="isArray(fragment) else singleNode" cdkDropList [cdkDropListData]="{containingNodeId, fragmentIndex: i}"
+       (cdkDropListDropped)="onDrop($event)">
+    <app-file-tree-node *ngFor="let nodeId of asElemArr(fragment)" [nodeId]="nodeId">
+    </app-file-tree-node>
+  </div>
+  <ng-template #singleNode>
+    <app-file-tree-node [nodeId]="asElem(fragment)"></app-file-tree-node>
+  </ng-template>
+</div>

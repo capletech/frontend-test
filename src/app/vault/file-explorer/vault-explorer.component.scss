@@ -1,0 +1,27 @@
+//@import "src/assets/scss/common";
+//@import "src/assets/scss/colors";
+
+.dashboard_container {
+  height: 100vh;
+
+  overflow-x: auto;
+}
+
+.header {
+  border-bottom: solid #e9eced 1px;
+}
+
+.tree-container {
+  margin: 20px 5% 0 10%;
+  height: calc(98vh - 130px);
+  border-radius: 20px;
+  background-color: #f7f7f7;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+@media only screen and (max-width: 959px) {
+  .tree-container {
+    margin: 15px 4% 0;
+  }
+}

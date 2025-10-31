@@ -1,0 +1,59 @@
+<div class="tree-node" (click)="onClick($event)" cdkDrag
+     (cdkDragStarted)="onDragStarted($event)"
+     (cdkDragReleased)="onDragRelease($event)"
+     [cdkDragDisabled]="isUnmovable()"
+     [cdkDragData]="nodeId"
+>
+  <div fxLayout="row" fxLayoutAlign="start center" (mouseover)="isHover = true" (mouseleave)="isHover = false">
+    <div fxLayout="row" fxLayoutAlign="start center">
+      <mat-icon class="header-icon"
+                [ngClass]="{'material-icons-outlined': !isExpanded }">{{ icon() }}
+      </mat-icon>
+      <span class="item-name">{{ node?.name }}</span>
+    </div>
+    <div class="toolbox" fxLayout="row" fxLayoutAlign=" center">
+      <ng-container *ngIf="showToolbar()">
+        <button mat-icon-button class="toolbox-icon-button"
+                (click)="onRenameFolderButtonClicked($event)"
+                [matTooltip]="'Rename Folder'">
+          <mat-icon class="material-icons-outlined">edit</mat-icon>
+        </button>
+        <button mat-icon-button class="toolbox-icon-button"
+                (click)="onNewItemButtonClicked($event)"
+                [matTooltip]="'text todo :P'">
+          <mat-icon class="material-icons-outlined">upload_file2</mat-icon>
+        </button>
+        <button mat-icon-button class="toolbox-icon-button"
+                (click)="onDeleteFolderButtonClicked($event)"
+                [matTooltip]="'Delete Folder'">
+          <mat-icon class="material-icons-outlined">delete</mat-icon>
+        </button>
+      </ng-container>
+    </div>
+  </div>
+  <div class="children-container" [@expandCollapse]="isExpanded ? 'expanded' : 'collapsed'"
+       (click)="stopEventPropagation($event)">
+    <app-nested-file-tree [nodeIds$]="childrenIds()" [containingNodeId]="nodeId"></app-nested-file-tree>
+    <div [@expandCollapse]="showNewItemZone ? 'expanded' : 'collapsed'">
+      <app-file-tree-node-new-item-zone [parentNode]="nodeAsVaultFolder()"></app-file-tree-node-new-item-zone>
+    </div>
+  </div>
+  <!--  Preview visible only during dragging -->
+  <div fxLayout="row" fxLayoutAlign="start center" *cdkDragPreview>
+    <div fxLayout="row" fxLayoutAlign="start center">
+      <mat-icon class="header-icon material-icons-outlined">{{ icon() }}</mat-icon>
+      <span class="item-name">{{ node?.name }}</span>
+    </div>
+  </div>
+
+  <!--  Placeholder visible only during dragging -->
+  <div class="tree-node drag-drop-placeholder" *cdkDragPlaceholder>
+    <div fxLayout="row" fxLayoutAlign="start center">
+      <div fxLayout="row" fxLayoutAlign="start center">
+        <mat-icon class="header-icon material-icons-outlined">{{ icon() }}</mat-icon>
+        <span class="item-name">{{ node?.name }}</span>
+      </div>
+    </div>
+  </div>
+
+</div>

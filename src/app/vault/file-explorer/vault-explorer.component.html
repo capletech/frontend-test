@@ -1,0 +1,13 @@
+<div fxLayout="row" fxLayout.sm="column" fxLayout.xs="column">
+  <div class="dashboard_container" fxFlex="100">
+    <div class="header" fxLayout.sm="column" fxLayout.xs="column" fxLayoutAlign.xs="center center"
+         fxLayoutAlign.sm="center center">
+      <div fxFlex.gt-sm="50">
+        <h3 (click)="debugInit()">Vault</h3>
+      </div>
+    </div>
+    <div fxLayout="column" class="tree-container">
+      <app-file-tree></app-file-tree>
+    </div>
+  </div>
+</div>

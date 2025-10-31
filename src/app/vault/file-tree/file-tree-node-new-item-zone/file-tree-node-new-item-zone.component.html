@@ -1,0 +1,28 @@
+<div class="new-item-zone" fxLayout="column">
+  <mat-icon>{{ getIcon() }}</mat-icon>
+  <ng-container [ngSwitch]="viewState">
+    <p *ngSwitchCase="'default'">
+      Drag your files here,
+      <span class="link">choose files from your computer</span>
+      or
+      <span class="link" (click)="funNameTodo()">create a new folder</span>
+    </p>
+    <p *ngSwitchCase="'new-folder'" class="new-folder-form">
+      New folder:
+      <input #newFileNameInput type="text" placeholder="New folder name..."
+             (keyup.enter)="onNewFolderSubmit()" [(ngModel)]="newFolderName"
+             [disabled]="isLoading || viewState !== 'new-folder'">
+      <mat-spinner [diameter]="12" *ngIf="isLoading"></mat-spinner>
+      <button mat-icon-button (click)="onNewFolderSubmit()"
+              [matTooltip]="'Create'"
+              *ngIf="!isLoading">
+        <mat-icon class="material-icons-outlined">add</mat-icon>
+      </button>
+      <button mat-icon-button (click)="onCancelNewFolderCreation()"
+              [matTooltip]="'Cancel'"
+              *ngIf="!isLoading">
+        <mat-icon class="material-icons-outlined">close</mat-icon>
+      </button>
+    </p>
+  </ng-container>
+</div>

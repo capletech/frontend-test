@@ -1,0 +1,965 @@
+[
+  {
+    "id": "0018cbfd-d6e9-4bce-b58f-a870a22b4cd9",
+    "type": "FOLDER",
+    "name": "Environmental",
+    "parentFolderId": null,
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+      "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+      "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d"
+    ]
+  },
+  {
+    "id": "01cfa23e-87e7-41c9-ae6b-0394f635164b",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "0618880a-ffe6-4182-b73f-97cd87385faf",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "06c34eb2-3310-4871-bbdb-19075ba5ccbb",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+    "type": "FOLDER",
+    "name": "Policies",
+    "parentFolderId": "179046d3-1dc7-4016-abc6-68b78e54dd89",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "d7c2cc38-f328-47d5-ac54-3e9c40d49f21",
+      "7c089b06-ae1e-46ba-886a-fc318e2558fa",
+      "ea29b9a6-3084-4831-b227-7e7635c3685f",
+      "96028d25-1625-44fb-b1ed-b9acd27f368f"
+    ]
+  },
+  {
+    "id": "0f0f9981-fed0-4df8-b64b-88b41d429dfa",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "0f2be6f9-0f91-455c-8da9-29f83f63a866",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "0f687cb3-8e86-431d-b84a-750b7fff066f",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "fd71e6b7-be7e-43af-a203-01a22cdee071",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+    "type": "FOLDER",
+    "name": "Policies",
+    "parentFolderId": "0018cbfd-d6e9-4bce-b58f-a870a22b4cd9",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "1d832522-20b0-4957-95ce-077487b3086e",
+      "93e4d62f-12a9-441c-bdb8-84aa2d5a3a89",
+      "0f0f9981-fed0-4df8-b64b-88b41d429dfa",
+      "1dcde8c7-ac57-4fcc-b4ed-a58a848ce149"
+    ]
+  },
+  {
+    "id": "179046d3-1dc7-4016-abc6-68b78e54dd89",
+    "type": "FOLDER",
+    "name": "Governance",
+    "parentFolderId": null,
+    "userId": null,
+    "sort": 4,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+      "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+      "fa3dd471-4834-4be7-85ca-1bd698107b8c"
+    ]
+  },
+  {
+    "id": "19f1957d-d7a4-4182-bef6-312320a11eb5",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "fd71e6b7-be7e-43af-a203-01a22cdee071",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
+    "type": "FOLDER",
+    "name": "Guidelines",
+    "parentFolderId": "ffe1aacb-0faf-4816-9bb7-5523ac9bdac0",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "62946779-dac5-4e78-9888-49ad07888cb9",
+      "9765d0a9-e680-41fb-9c06-9080e9298fcc",
+      "01cfa23e-87e7-41c9-ae6b-0394f635164b",
+      "98014a78-aaa2-4386-9f4f-2560e8899eaa"
+    ]
+  },
+  {
+    "id": "1d832522-20b0-4957-95ce-077487b3086e",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "1dbfe75e-e33a-4610-bb77-013fc5d0b020",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "1dcde8c7-ac57-4fcc-b4ed-a58a848ce149",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
+    "type": "FOLDER",
+    "name": "Guidelines",
+    "parentFolderId": "d2eb62c4-a15f-44c3-a5a7-a4a060c15a92",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "54470e8f-044b-4ffd-8353-aecc1700bb39",
+      "7c577525-58d5-4b71-901c-627c6d525531",
+      "7d020531-4002-4e6f-9c4c-83a74c26b4ea",
+      "570f9cfd-a517-4c0f-ac48-9c00b29a5bf4"
+    ]
+  },
+  {
+    "id": "34c12ce3-b7ee-4137-9c58-0c5156a2c75a",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "35cb5ded-13db-4120-94d7-9045990ed082",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "4700ce96-a989-4c8a-ba1c-184021f93db7",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "3c2ea635-97b3-43fd-8813-07f0703a3430",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "4151c4cb-3215-47f9-9252-4306ad8d1e1e",
+    "type": "FOLDER",
+    "name": "Societal",
+    "parentFolderId": null,
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "4700ce96-a989-4c8a-ba1c-184021f93db7",
+      "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+      "6f6e6dc2-0677-410c-aed3-35990ccc8111"
+    ]
+  },
+  {
+    "id": "4700ce96-a989-4c8a-ba1c-184021f93db7",
+    "type": "FOLDER",
+    "name": "Policies",
+    "parentFolderId": "4151c4cb-3215-47f9-9252-4306ad8d1e1e",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "35cb5ded-13db-4120-94d7-9045990ed082",
+      "a9b637bd-1a49-4bf7-bffb-2272094655f5",
+      "b5f645ec-dcab-4d3d-a938-5497d01456d4",
+      "9c3bd97e-05fb-4df2-b1c0-0e8ee592e063"
+    ]
+  },
+  {
+    "id": "4859c3da-d766-4fe9-a7c0-b7ec9fde9579",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "cf0a0d37-c777-4502-b754-f0e1de765db1",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-29T13:05:39.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "4a9589f0-d77f-4083-a3fe-bcdc50354de8",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "fd71e6b7-be7e-43af-a203-01a22cdee071",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "5169c204-b36a-4170-848c-dc31725868d6",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+    "type": "FOLDER",
+    "name": "Procedures",
+    "parentFolderId": "4151c4cb-3215-47f9-9252-4306ad8d1e1e",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "3c2ea635-97b3-43fd-8813-07f0703a3430",
+      "b2208966-a27b-4062-90e9-0d2ad711bb55",
+      "5169c204-b36a-4170-848c-dc31725868d6",
+      "e0f4c685-548f-4b4c-9c46-4131a706b5aa"
+    ]
+  },
+  {
+    "id": "54470e8f-044b-4ffd-8353-aecc1700bb39",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "55d1417a-5195-4008-99a3-237ae73535c6",
+    "type": "FOLDER",
+    "name": "Policies",
+    "parentFolderId": "ffe1aacb-0faf-4816-9bb7-5523ac9bdac0",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "cf2997c9-d454-4492-82ca-83f96b86760f",
+      "ebaa4b61-8545-4af1-8baf-06782a579960",
+      "a3ad0d4e-be38-428e-accf-3c6db78038bf",
+      "d95d6f7f-fe3f-4484-b151-d8232513a330"
+    ]
+  },
+  {
+    "id": "570f9cfd-a517-4c0f-ac48-9c00b29a5bf4",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "5b5df3a2-38f2-48d0-8f9f-3887ace0ded8",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "5e930bef-afd3-4b92-a179-2204028c0bb5",
+    "type": "FOLDER",
+    "name": "Procedures",
+    "parentFolderId": "ffe1aacb-0faf-4816-9bb7-5523ac9bdac0",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "74d32982-002e-469a-8d6a-69cb0a3712e5",
+      "6e8276e3-0fe9-4a4d-a5a5-fe4664fb63c9",
+      "b2c52479-ad51-4b31-9579-f2aaf09b9dd8",
+      "ee393056-7a72-4e76-8371-eca9ad590a89"
+    ]
+  },
+  {
+    "id": "612cc7cc-f0e0-479b-a4ae-384fc5c1cbf4",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "62946779-dac5-4e78-9888-49ad07888cb9",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+    "type": "FOLDER",
+    "name": "Procedures",
+    "parentFolderId": "0018cbfd-d6e9-4bce-b58f-a870a22b4cd9",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "34c12ce3-b7ee-4137-9c58-0c5156a2c75a",
+      "5b5df3a2-38f2-48d0-8f9f-3887ace0ded8",
+      "f253c2d7-08c3-4fe8-803b-28a16ee48540",
+      "dfb62418-a60c-42c6-9ac6-5121d4b42b7d"
+    ]
+  },
+  {
+    "id": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
+    "type": "FOLDER",
+    "name": "Guidelines",
+    "parentFolderId": "0018cbfd-d6e9-4bce-b58f-a870a22b4cd9",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "d791705d-1490-42cc-906a-fe3272d2433f",
+      "b468308d-264e-4733-b46e-6d8b5fca76a9",
+      "e89e46c5-bb6f-4925-8b2b-fed37944c30f",
+      "0618880a-ffe6-4182-b73f-97cd87385faf"
+    ]
+  },
+  {
+    "id": "6e2c6742-5930-4439-97ac-992f369904a1",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "cf0a0d37-c777-4502-b754-f0e1de765db1",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-29T13:05:39.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "6e8276e3-0fe9-4a4d-a5a5-fe4664fb63c9",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "5e930bef-afd3-4b92-a179-2204028c0bb5",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
+    "type": "FOLDER",
+    "name": "Guidelines",
+    "parentFolderId": "4151c4cb-3215-47f9-9252-4306ad8d1e1e",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "0f2be6f9-0f91-455c-8da9-29f83f63a866",
+      "f0dae0f6-14de-4275-84a8-1c554602678c",
+      "df6f220a-d2c9-41b5-93cf-c1abd2cdbf98",
+      "1dbfe75e-e33a-4610-bb77-013fc5d0b020"
+    ]
+  },
+  {
+    "id": "74d32982-002e-469a-8d6a-69cb0a3712e5",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "5e930bef-afd3-4b92-a179-2204028c0bb5",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "7c089b06-ae1e-46ba-886a-fc318e2558fa",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "7c577525-58d5-4b71-901c-627c6d525531",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "7d020531-4002-4e6f-9c4c-83a74c26b4ea",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "7d12f6e7-21a2-4c56-beb1-74c67cf7d2d0",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "8c4acd05-ed03-4255-8583-847c54c16d20",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "cf0a0d37-c777-4502-b754-f0e1de765db1",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-29T13:05:39.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "93e4d62f-12a9-441c-bdb8-84aa2d5a3a89",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "96028d25-1625-44fb-b1ed-b9acd27f368f",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "9765d0a9-e680-41fb-9c06-9080e9298fcc",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "98014a78-aaa2-4386-9f4f-2560e8899eaa",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "9a0f843b-5a04-4a7c-aae9-52480cd5ee25",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+    "type": "FOLDER",
+    "name": "Procedures",
+    "parentFolderId": "179046d3-1dc7-4016-abc6-68b78e54dd89",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "a5d26388-fdf6-49c2-b16c-4a29e096f0e9",
+      "9d16c201-6551-4056-a9e0-04aac2b07ccf",
+      "d90337ca-2192-4c16-bedf-2c5533efcc51",
+      "06c34eb2-3310-4871-bbdb-19075ba5ccbb"
+    ]
+  },
+  {
+    "id": "9c3bd97e-05fb-4df2-b1c0-0e8ee592e063",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "4700ce96-a989-4c8a-ba1c-184021f93db7",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "9d16c201-6551-4056-a9e0-04aac2b07ccf",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "a3ad0d4e-be38-428e-accf-3c6db78038bf",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "55d1417a-5195-4008-99a3-237ae73535c6",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "a5d26388-fdf6-49c2-b16c-4a29e096f0e9",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "a9b637bd-1a49-4bf7-bffb-2272094655f5",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "4700ce96-a989-4c8a-ba1c-184021f93db7",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "b2208966-a27b-4062-90e9-0d2ad711bb55",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "b2c52479-ad51-4b31-9579-f2aaf09b9dd8",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "5e930bef-afd3-4b92-a179-2204028c0bb5",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "b468308d-264e-4733-b46e-6d8b5fca76a9",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "b5f645ec-dcab-4d3d-a938-5497d01456d4",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "4700ce96-a989-4c8a-ba1c-184021f93db7",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "c1ddbf09-bd05-4544-ae08-85e2b39e666d",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "fd71e6b7-be7e-43af-a203-01a22cdee071",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "cf0a0d37-c777-4502-b754-f0e1de765db1",
+    "type": "FOLDER",
+    "name": "Policies",
+    "parentFolderId": "d2eb62c4-a15f-44c3-a5a7-a4a060c15a92",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "4859c3da-d766-4fe9-a7c0-b7ec9fde9579",
+      "6e2c6742-5930-4439-97ac-992f369904a1",
+      "8c4acd05-ed03-4255-8583-847c54c16d20"
+    ]
+  },
+  {
+    "id": "cf2997c9-d454-4492-82ca-83f96b86760f",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "55d1417a-5195-4008-99a3-237ae73535c6",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "d2eb62c4-a15f-44c3-a5a7-a4a060c15a92",
+    "type": "FOLDER",
+    "name": "Corporate",
+    "parentFolderId": null,
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "cf0a0d37-c777-4502-b754-f0e1de765db1",
+      "fd71e6b7-be7e-43af-a203-01a22cdee071",
+      "2aa7a8eb-b71f-4151-91c7-f7abb47b2285"
+    ]
+  },
+  {
+    "id": "d791705d-1490-42cc-906a-fe3272d2433f",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "d7c2cc38-f328-47d5-ac54-3e9c40d49f21",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "d90337ca-2192-4c16-bedf-2c5533efcc51",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "d95d6f7f-fe3f-4484-b151-d8232513a330",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "55d1417a-5195-4008-99a3-237ae73535c6",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "df6f220a-d2c9-41b5-93cf-c1abd2cdbf98",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "dfb62418-a60c-42c6-9ac6-5121d4b42b7d",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "e0f4c685-548f-4b4c-9c46-4131a706b5aa",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "e63a121a-a4b6-4390-8031-a8bce041f8e4",
+    "type": "FOLDER",
+    "name": "Internal",
+    "parentFolderId": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
+    "userId": null,
+    "sort": 0,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "e89e46c5-bb6f-4925-8b2b-fed37944c30f",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "ea29b9a6-3084-4831-b227-7e7635c3685f",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "ebaa4b61-8545-4af1-8baf-06782a579960",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "55d1417a-5195-4008-99a3-237ae73535c6",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "ee393056-7a72-4e76-8371-eca9ad590a89",
+    "type": "FOLDER",
+    "name": "Mario Party",
+    "parentFolderId": "5e930bef-afd3-4b92-a179-2204028c0bb5",
+    "userId": null,
+    "sort": 3,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "f0dae0f6-14de-4275-84a8-1c554602678c",
+    "type": "FOLDER",
+    "name": "External",
+    "parentFolderId": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "f253c2d7-08c3-4fe8-803b-28a16ee48540",
+    "type": "FOLDER",
+    "name": "Third party",
+    "parentFolderId": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": []
+  },
+  {
+    "id": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
+    "type": "FOLDER",
+    "name": "Guidelines",
+    "parentFolderId": "179046d3-1dc7-4016-abc6-68b78e54dd89",
+    "userId": null,
+    "sort": 2,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "e63a121a-a4b6-4390-8031-a8bce041f8e4",
+      "7d12f6e7-21a2-4c56-beb1-74c67cf7d2d0",
+      "612cc7cc-f0e0-479b-a4ae-384fc5c1cbf4",
+      "9a0f843b-5a04-4a7c-aae9-52480cd5ee25"
+    ]
+  },
+  {
+    "id": "fd71e6b7-be7e-43af-a203-01a22cdee071",
+    "type": "FOLDER",
+    "name": "Procedures",
+    "parentFolderId": "d2eb62c4-a15f-44c3-a5a7-a4a060c15a92",
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "4a9589f0-d77f-4083-a3fe-bcdc50354de8",
+      "0f687cb3-8e86-431d-b84a-750b7fff066f",
+      "19f1957d-d7a4-4182-bef6-312320a11eb5",
+      "c1ddbf09-bd05-4544-ae08-85e2b39e666d"
+    ]
+  },
+  {
+    "id": "ffe1aacb-0faf-4816-9bb7-5523ac9bdac0",
+    "type": "FOLDER",
+    "name": "Economic",
+    "parentFolderId": null,
+    "userId": null,
+    "sort": 1,
+    "createdAt": "2025-10-28T14:52:16.000+00:00",
+    "updatedAt": "2025-10-28T14:52:16.000+00:00",
+    "childrenIds": [
+      "55d1417a-5195-4008-99a3-237ae73535c6",
+      "5e930bef-afd3-4b92-a179-2204028c0bb5",
+      "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b"
+    ]
+  }
+]
