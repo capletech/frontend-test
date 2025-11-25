@@ -28,7 +28,7 @@
   {
     "id": "0618880a-ffe6-4182-b73f-97cd87385faf",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "6d88d5fd-cbed-4dd8-9ed0-a0bb9f96743d",
     "userId": null,
     "sort": 3,
@@ -39,7 +39,7 @@
   {
     "id": "06c34eb2-3310-4871-bbdb-19075ba5ccbb",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "9b5d87b8-8c5d-424e-bee0-6588f39fa57a",
     "userId": null,
     "sort": 3,
@@ -168,7 +168,7 @@
   {
     "id": "1dbfe75e-e33a-4610-bb77-013fc5d0b020",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "6f6e6dc2-0677-410c-aed3-35990ccc8111",
     "userId": null,
     "sort": 3,
@@ -179,7 +179,7 @@
   {
     "id": "1dcde8c7-ac57-4fcc-b4ed-a58a848ce149",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "10a095ba-12fa-4dfe-8d6a-ab4d2b40d27f",
     "userId": null,
     "sort": 3,
@@ -346,7 +346,7 @@
   {
     "id": "570f9cfd-a517-4c0f-ac48-9c00b29a5bf4",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "2aa7a8eb-b71f-4151-91c7-f7abb47b2285",
     "userId": null,
     "sort": 3,
@@ -531,7 +531,7 @@
   {
     "id": "8c4acd05-ed03-4255-8583-847c54c16d20",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "cf0a0d37-c777-4502-b754-f0e1de765db1",
     "userId": null,
     "sort": 2,
@@ -553,7 +553,7 @@
   {
     "id": "96028d25-1625-44fb-b1ed-b9acd27f368f",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "0e57f4f0-8c43-40be-b9ae-37ebf5d2ae6c",
     "userId": null,
     "sort": 3,
@@ -575,7 +575,7 @@
   {
     "id": "98014a78-aaa2-4386-9f4f-2560e8899eaa",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "1c9de005-7a9e-4f4d-91ed-a5fe6bc5f13b",
     "userId": null,
     "sort": 3,
@@ -586,7 +586,7 @@
   {
     "id": "9a0f843b-5a04-4a7c-aae9-52480cd5ee25",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "fa3dd471-4834-4be7-85ca-1bd698107b8c",
     "userId": null,
     "sort": 3,
@@ -613,7 +613,7 @@
   {
     "id": "9c3bd97e-05fb-4df2-b1c0-0e8ee592e063",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "4700ce96-a989-4c8a-ba1c-184021f93db7",
     "userId": null,
     "sort": 3,
@@ -712,7 +712,7 @@
   {
     "id": "c1ddbf09-bd05-4544-ae08-85e2b39e666d",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "fd71e6b7-be7e-43af-a203-01a22cdee071",
     "userId": null,
     "sort": 3,
@@ -797,7 +797,7 @@
   {
     "id": "d95d6f7f-fe3f-4484-b151-d8232513a330",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "55d1417a-5195-4008-99a3-237ae73535c6",
     "userId": null,
     "sort": 3,
@@ -819,7 +819,7 @@
   {
     "id": "dfb62418-a60c-42c6-9ac6-5121d4b42b7d",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "6cd1579c-0f7b-44ed-9f18-5dc81d4fb53c",
     "userId": null,
     "sort": 3,
@@ -830,7 +830,7 @@
   {
     "id": "e0f4c685-548f-4b4c-9c46-4131a706b5aa",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "5444217c-484e-41cb-91cd-0d3a44b80fd7",
     "userId": null,
     "sort": 3,
@@ -885,7 +885,7 @@
   {
     "id": "ee393056-7a72-4e76-8371-eca9ad590a89",
     "type": "FOLDER",
-    "name": "Mario Party",
+    "name": "MISC",
     "parentFolderId": "5e930bef-afd3-4b92-a179-2204028c0bb5",
     "userId": null,
     "sort": 3,

@@ -82,7 +82,6 @@ export class VaultState {
     throw new Error();
   }
 
-  // 2do: maybe clean dis up <3
   @Action(DeleteVaultItem)
   deleteVaultItem(ctx: StateContext<VaultStateModel>, action: DeleteVaultItem): Observable<void> {
     const {itemId, cascade} = action;
@@ -181,12 +180,14 @@ export class VaultState {
       )
       .pipe(
         tap(() => {
+          /// Please implement the state update logic here
           /*
             Note:
             - subsequent siblings of the node in the new folder will have their sort increased by 1
             - do not decrease the sort of subsequent siblings in the old folder
             - lists of node ids must be sorted by the sort property of associated nodes
            */
+          /// This comment denotes the end of the required implementation
         }),
       );
   }
